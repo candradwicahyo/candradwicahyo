@@ -1,3 +1,12 @@
-![indonesian flag](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyYN9I3urxXCQ2Q5OZho7DacnjU8MP0gq6SiFvN1wfovr6POGMUEKrtJrD&s=10)
+Hi, I am **Candra dwi cahyo**, my current age is **17 years** old.  I am a web designer and also a frontend web developer.  I learned programming for the first time in 2018, where the first programming language I learned was PHP
 
-Hai, selamat datang di **profile** github saya. nama saya adalah **candra dwi cahyo** dan saya berusia **16 tahun**. saya adalah seorang **web developer junior**, dimana saya mempelajari bahasa pemrograman ialah pada tahun **2018**. saya memiliki beberapa program yang sudah saya buat dan saya simpan kedalam **akun github saya**. jadi, anda bisa sesuka menikmati beberapa karya yang sudah pernah saya buat **:)**
+ the skills that I have
+
+ - HTML
+ - CSS
+ - JavaScript
+ - PHP
+ - Bootstrap
+ - CodeIgniter
+
+ currently, I am studying how to become a freelancer, so that I can make money with the abilities I currently have
