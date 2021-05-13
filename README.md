@@ -7,6 +7,7 @@ Hi, I am **Candra dwi cahyo**, my current age is **17 years** old.  I am a web d
  - HTML
  - CSS
  - JavaScript
+ - JQuery
  - PHP
  - Bootstrap
  - CodeIgniter
