@@ -12,6 +12,7 @@ Hi, welcome to my github profile.  introduce, my name is **candra dwi cahyo**, I
  * **JavaScript**
    * **DOM (Document Object Model)**
    * **ES6**
+   * **JSON**
    * **JQuery**
  * **PHP**
    * **OOP**
