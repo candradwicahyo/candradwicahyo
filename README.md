@@ -6,15 +6,15 @@ Hi, welcome to my github profile.  introduce, my name is **candra dwi cahyo**, I
 
  the skills that I have
 
- * HTML
- * CSS
-   * Bootstrap
- * JavaScript
-   * DOM (Document Object Model)
-   * ES6
-   * JQuery
- * PHP
-   * OOP
-   * CodeIgniter
+ * **HTML**
+ * **CSS**
+   * **Bootstrap**
+ * **JavaScript**
+   * **DOM (Document Object Model)**
+   * **ES6**
+   * **JQuery**
+ * **PHP**
+   * **OOP**
+   * **CodeIgniter**
 
  currently, I am studying how to become a **freelancer**, so that I can make money with the abilities I currently have
