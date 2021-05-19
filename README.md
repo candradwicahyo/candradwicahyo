@@ -1,5 +1,7 @@
 ![My Profile Picture](https://github.com/candradwicahyo/candradwicahyo/blob/master/carbon.png)
 
+## Intro
+
 Hi, I am **Candra dwi cahyo**, my current age is **17 years** old.  I am a web designer and also a frontend web developer.  I learned programming for the first time in 2018, where the first programming language I learned was PHP
 
  the skills that I have
