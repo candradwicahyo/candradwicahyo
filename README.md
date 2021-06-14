@@ -2,20 +2,23 @@
 
 ## Introduce
 
-Hi, welcome to my github profile.  introduce, my name is **candra dwi cahyo**, I was born in **East Java** and I was born on **20 May 2004**. I am a **web designer** and a **frontend web developer**.  I **learned programming in 2018**, where the programming language I learned was **PHP**.
+Hi, welcome to my github profile.  introduce, my name is **candra dwi cahyo**, I was born in **East Java** and I was born on **20 May 2004**. I am a **web developer**.  I **learned programming in 2018**, where the programming language I learned was **PHP**.
 
  the skills that I have
 
  * **HTML**
  * **CSS**
-   * **Bootstrap**
+
+   * Bootstrap4
  * **JavaScript**
-   * **DOM (Document Object Model)**
-   * **ES6**
-   * **JSON**
-   * **JQuery**
+
+   * DOM
+   * ES6
+   * JSON 
+   * JQuery
  * **PHP**
-   * **OOP**
-   * **CodeIgniter**
+
+   * OOP
+   * CodeIgniter3
 
  currently, I am studying how to become a **freelancer**, so that I can make money with the abilities I currently have
