@@ -1,4 +1,4 @@
-![My Profile Picture](https://github.com/candradwicahyo/candradwicahyo/blob/master/carbon.png)
+![My Profile Picture](https://github.com/candradwicahyo/candradwicahyo/blob/master/me.png)
 
 ## Introduce
 
