@@ -8,19 +8,47 @@ Hi, my name is **Candra Dwi Cahyo**, I come from Indonesia and I was born in Eas
 
 framework that I have used :
 * Bootstrap
+* Codeigniter
 
 library that i have used :
 * JQuery
 
-```javascript
-// javascript
-
-const data = {
-  name: 'Candra Dwi Cahyo',
-  dateOfBirth: '20 may 2004',
-  hobby: [Coding, Football, Swimming],
-  gender: 'Male'
+```HTML
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="./style.css">
+  <title>Intoduction</title>
+</head>
+<body>
+  <input type="text" placeholder="enter your name...">
+  <button type="button">Enter</button>
+  <script src="./script.js"></script>
+</body>
+</html>
+```
+```CSS
+* {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  box-sizing: border-box;
 }
 
-console.log(data.name);
+body { 
+  background-color: royalblue; 
+}
+```
+```javascript
+window.addEventListener('load', () => {
+  const input = document.querySelector('input');
+  const button = document.querySelector('button');
+  button.addEventListener('click', () => {
+    if (!input.value) return alert('input is required');
+    return alert(input.value);
+  });
+});
 ```
