@@ -21,7 +21,7 @@ library that i have used :
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <link rel="stylesheet" href="./style.css">
-  <title>Intoduction</title>
+  <title>Introduction</title>
 </head>
 <body>
   <input type="text" placeholder="enter your name...">
