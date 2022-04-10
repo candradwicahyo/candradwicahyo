@@ -9,6 +9,9 @@ Hi, my name is **Candra Dwi Cahyo**, I come from Indonesia and I was born in Eas
 framework that I have used :
 * Bootstrap
 
+library that i have used :
+* JQuery
+
 ```javascript
 // javascript
 
