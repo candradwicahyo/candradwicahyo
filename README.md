@@ -13,42 +13,9 @@ framework that I have used :
 library that i have used :
 * JQuery
 
-```HTML
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <link rel="stylesheet" href="./style.css">
-  <title>Introduction</title>
-</head>
-<body>
-  <input type="text" placeholder="enter your name...">
-  <button type="button">Enter</button>
-  <script src="./script.js"></script>
-</body>
-</html>
-```
-```CSS
-* {
-  margin: 0;
-  padding: 0;
-  font-family: sans-serif;
-  box-sizing: border-box;
-}
-
-body { 
-  background-color: royalblue; 
-}
-```
 ```javascript
-window.addEventListener('load', () => {
-  const input = document.querySelector('input');
-  const button = document.querySelector('button');
-  button.addEventListener('click', () => {
-    if (!input.value) return alert('input is required');
-    return alert(input.value);
-  });
-});
+window.onload = () => {
+  const name = 'candra dwi cahyo';
+  console.log(`Hi, my name is ${name}`);
+}
 ```
