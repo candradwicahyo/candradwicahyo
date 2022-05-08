@@ -1,6 +1,6 @@
 ## About Me
 
-Hi, my name is **Candra Dwi Cahyo**, I come from Indonesia and i was born on 2004. I am a **Front End Web Developer**.  What languages ​​have I studied?
+Hi, my name is **Candra Dwi Cahyo**, I am **Front End Web Developer**. I come from Indonesia and i was born on **20 may 2004**.  What languages ​​have I studied?
 
 - [x] HTML
 - [x] CSS
