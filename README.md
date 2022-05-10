@@ -5,10 +5,10 @@ Hi, my name is **Candra Dwi Cahyo**, I am **Front End Web Developer**. I come fr
 - [x] HTML
 - [x] CSS
 - [x] JavaScript
-- [x] PHP
 
 ## Other
 
 - [x] Bootstrap
-- [x] Codeigniter
 - [x] JQuery
+
+> translate by **Google Translate**
