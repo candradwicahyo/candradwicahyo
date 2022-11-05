@@ -9,6 +9,7 @@ Introducing, my name is Candra Dwi Cahyo.  I am from Indonesia and I am a fronte
 * css
   * [bootstrap](https://getbootstrap.com)
 * javascript
+  * [jquery](https://jquery.com)
 
 I have a dream to work as a professional frontend web developer in a company in the future.  I hope my dream come true
 
