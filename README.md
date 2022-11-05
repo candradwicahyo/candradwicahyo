@@ -1,6 +1,6 @@
 # Introducing
 
-Introducing, my name is Candra Dwi Cahyo.  I come from Indonesia and I was born on May 20, 2004. I am a frontend web developer, where I first learned programming languages ​​in 2018
+Introducing, my name is Candra Dwi Cahyo.  I am from Indonesia and I am a frontend web developer, where I first learned programming languages ​​in 2018
 
 
 ## what i learned
