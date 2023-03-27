@@ -1,20 +1,18 @@
 # Introducing
 
-Introducing, my name is Candra Dwi Cahyo.  I am from Indonesia and I am a frontend web developer.
+
+introduce my name is candra dwi cahyo and i am a frontend web developer.  I learned the first programming language in 2018 where at that time the programming language I learned first was **PHP** and the programming language I learned and I focus on now is **javascript**
 
 
-## what i learned
-
-* html
-* css
-* javascript
-
-## framework
-
-* [bootstrap](https://getbootstrap.com)
+## What I Learned
 
 
-I have a dream to work as a professional frontend web developer in a company in the future.  I hope my dream come true
+*  html
+*  css
+   * [bootstrap](https://getbootstrap.com)
+*  javascript
+   * [JQuery](https://jquery.com)
 
+## My Planning
 
-> translate by **Google Translate**
+My dream in the future is to become a great programmer and work in a big company.  as well as building an application that might be useful for the community around me.  hopefully my dream can come true.
