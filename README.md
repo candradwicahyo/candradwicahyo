@@ -12,7 +12,3 @@ introduce my name is candra dwi cahyo and i am a frontend web developer.  I lear
    * [bootstrap](https://getbootstrap.com)
 *  javascript
    * [JQuery](https://jquery.com)
-
-## My Planning
-
-My dream in the future is to become a great programmer and work in a big company.  as well as building an application that might be useful for the community around me.  hopefully my dream can come true.
