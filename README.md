@@ -9,6 +9,4 @@ introduce, my name is **candra dwi cahyo**, I come from **Indonesia** and I was 
 
 *  html
 *  css
-   * [bootstrap](https://getbootstrap.com)
 *  javascript
-   * [JQuery](https://jquery.com)
