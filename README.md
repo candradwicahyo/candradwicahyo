@@ -1,7 +1,7 @@
 # Introducing
 
 
-introduce, my name is **candra dwi cahyo**, I come from **Indonesia** and I was born in **East Java, Malang**.  I am a **frontend web developer**.  I learned the first programming language in 2018, at which time I learned about **PHP**.  I started switching to **JavaScript** in 2020 because I didn't feel right as a **backend web developer**.  and finally I focused on learning about **javascript** until now.
+let me introduce myself, my name is **Candra Dwi Cahyo** and I come from **Indonesia**.  I learned my first programming language in 2018 and the language I learned was **PHP**.  However, since 2020 I decided to learn other programming languages ​​such as **JavaScript** and until now I have only focused on learning about the **JavaScript** programming language.
 
 
 ## What I Learned
